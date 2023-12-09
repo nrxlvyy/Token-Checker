@@ -1,0 +1,17 @@
+Thank you for downloading my tool!
+
+Here's how to use it:
+
+1. open install.bat
+2. wait for modules be installed
+
+!!! IF YOU SEE THIS - 'pip is not recognized as an internal or external command operable program or batch file'
+go to tutorial2.txt and follow the steps !!!
+
+if not:
+3. open tool folder
+4. put your tokens into data/tokens.txt
+5. edit config.json if u want
+6. run checker.py
+7. enjoy the tool
+

@@ -1,0 +1,8 @@
+pip is not recognized as an internal or external command operable program or batch file fix:
+
+1. uninstall python
+2. go to cmd
+3. type "python"
+4. microsoft store will open
+5. install python
+6. redo tutorial.txt
